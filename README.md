@@ -16,6 +16,16 @@
 ### Data Structure overview
 <img width="1600" height="869" alt="MS Excel Window" src="https://github.com/user-attachments/assets/5d442a18-1e17-47f7-a4af-e0285e50978d" />
 
+Relationship Diagram
+| Table	| Primary Key |	Relationship|
+|-------|-------------|--------------|
+| Fact Sales |	Transaction ID |	Central fact table|
+| Customer |	Customer ID |	One-to-many|
+| Product |	Product ID |	One-to-many|
+| Store |	Store ID |	One-to-many|
+| Date |	Date |	One-to-many|
+| Transaction Attributes |	Transaction ID |	One-to-one|
+
 
 
 ### Executive Summary
