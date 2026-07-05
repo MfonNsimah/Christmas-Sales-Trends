@@ -1,7 +1,7 @@
 # Data Analytics Mentorship Program: 
 ## Christmas Sales & Trends Business Simulation Project
 
-Based on the **Christmas Sales & Trends dataset**, I have designed a complete **industry-standard mentorship project framework** that simulates a real corporate analytics engagement in a retail organization.
+Based on the **Christmas Sales & Trends dataset**, This is a complete **industry-standard mentorship project framework** that simulates a real corporate analytics engagement in a retail organization.
 
 ---
 
