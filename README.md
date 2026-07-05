@@ -14,6 +14,7 @@
 
 
 ### Data Structure overview
+<img width="1600" height="869" alt="MS Excel Window" src="https://github.com/user-attachments/assets/5d442a18-1e17-47f7-a4af-e0285e50978d" />
 
 
 
